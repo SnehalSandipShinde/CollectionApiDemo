@@ -29,9 +29,9 @@ public class FindIndexPositionCopy {
 		
 //		int[] arr = {12,10};
 //		int[] arr = {10,10};
-//		int[] arr = {10};
+		int[] arr = {10};
 //		int[] arr = {};
-		int[] arr = null;
+//		int[] arr = null;
 		
 		FindIndexPositionCopy getIndex = new FindIndexPositionCopy();
 		
